@@ -24,7 +24,7 @@ If you find my project is helpful, you can star this repo! That would help me a 
 
 ## License
 
-⚖️ GNU GPL-v3 License
+⚖️ Protected by GNU GPL-v3 License
 
 ## Sharing?
 
