@@ -6,6 +6,7 @@ No ads, and its completely free. Because who want to watch an ads when study any
 ## Why?
 
 Why not?? Why you have to really going to waste your time scribbling on paper just to find the sum of two fractions?
+Manual way wasnt efficient and frustrating. So thats why we made this app.
 
 ## ✅ Features
 
@@ -13,6 +14,7 @@ Why not?? Why you have to really going to waste your time scribbling on paper ju
 - [x] Decimal -> Fraction, or vice versa  
 - [x] Complex fractions to simple fractions
 - [x] Calculate up to 4 fractions at once
+- [x] Background Customization 
 
 ## Can i contribute?
 
@@ -29,3 +31,7 @@ If you find my project is helpful, you can star this repo! That would help me a 
 ## Sharing?
 
 According to the license, i kindly ask for permission and credits for this project to be modified, reposted and shared.
+
+## Authors:
+- **Developers**: Ashyraffa
+- **QA Tester**: Ratu
