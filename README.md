@@ -22,7 +22,7 @@ Manual way wasnt efficient and frustrating. So thats why we made this app.
 
 # Star this project?
 
-If you find my project is helpful, you can star this repo! That would help me a lot :D
+If you find our project is helpful, you can star this repo! That would help us a lot :D
 
 ## License
 
@@ -30,7 +30,7 @@ If you find my project is helpful, you can star this repo! That would help me a 
 
 ## Sharing?
 
-According to the license, i kindly ask for permission and credits for this project to be modified, reposted and shared.
+According to the license, we kindly ask for permission and credits for this project to be modified, reposted and shared.
 
 ## Authors:
 - **Developer**: Ashyraffa
