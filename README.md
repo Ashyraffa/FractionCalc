@@ -33,5 +33,5 @@ If you find my project is helpful, you can star this repo! That would help me a 
 According to the license, i kindly ask for permission and credits for this project to be modified, reposted and shared.
 
 ## Authors:
-- **Developers**: Ashyraffa
+- **Developer**: Ashyraffa
 - **QA Tester**: Ratu
